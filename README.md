@@ -9,7 +9,9 @@ RapidCSS: https://www.rapidcsseditor.com/<br/>
 HTMLPad: https://www.htmlpad.net/
 
 
-#### Function: Allows you to insert inline images in Base64 encoded format.
+#### Function: 
+
+Allows you to insert inline images in Base64 encoded format.
 
 Supported Image file types: .gif, .jpg, .png, .svg and .ico.
 
